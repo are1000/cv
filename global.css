@@ -148,8 +148,17 @@ ul.skills {
 }
 
 .title {
-	padding: 24px;
+	display: inline-block;
+	width: 130px;
 	font-weight: bold;
+}
+
+.title2 {
+	
+}
+
+.spaced li {
+	margin-bottom: 46px;
 }
 
 .maintitle {
